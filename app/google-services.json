@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014906609790",
+    "project_id": "haseeb-bloodbank",
+    "storage_bucket": "haseeb-bloodbank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014906609790:android:bb283f3350e3b3e25c382f",
+        "android_client_info": {
+          "package_name": "com.android.iunoob.Haseebbloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014906609790-sqg56vk7b8g4tbicb0tcjeh6lnlikg1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYTTYsmr1sih0c_QiLoEOTl6SQDaoI0us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014906609790-sqg56vk7b8g4tbicb0tcjeh6lnlikg1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
